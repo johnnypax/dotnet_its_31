@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez00_introduzione\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B9FD166B-A368-4B1F-A4D3-DE91C4504FD1}|its31_lez05_task\\its31_lez05_task.csproj|c:\\users\\academy\\source\\repos\\its31_lez00_introduzione\\its31_lez05_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FD166B-A368-4B1F-A4D3-DE91C4504FD1}|its31_lez05_task\\its31_lez05_task.csproj|solutionrelative:its31_lez05_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FD166B-A368-4B1F-A4D3-DE91C4504FD1}|its31_lez05_task\\its31_lez05_task.csproj|c:\\users\\academy\\source\\repos\\its31_lez00_introduzione\\its31_lez05_task\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FD166B-A368-4B1F-A4D3-DE91C4504FD1}|its31_lez05_task\\its31_lez05_task.csproj|solutionrelative:its31_lez05_task\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FC5A7D-5908-4762-A582-FF83BA82C27F}|its31_lez04_input\\its31_lez04_input.csproj|c:\\users\\academy\\source\\repos\\its31_lez00_introduzione\\its31_lez04_input\\its31_lez04_input.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84FC5A7D-5908-4762-A582-FF83BA82C27F}|its31_lez04_input\\its31_lez04_input.csproj|solutionrelative:its31_lez04_input\\its31_lez04_input.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F803BCC-5B9D-41C7-BEFF-A83D1CD950B5}|its31_lez03_ereditarieta\\its31_lez03_ereditarieta.csproj|c:\\users\\academy\\source\\repos\\its31_lez00_introduzione\\its31_lez03_ereditarieta\\its31_lez03_ereditarieta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F803BCC-5B9D-41C7-BEFF-A83D1CD950B5}|its31_lez03_ereditarieta\\its31_lez03_ereditarieta.csproj|solutionrelative:its31_lez03_ereditarieta\\its31_lez03_ereditarieta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84FC5A7D-5908-4762-A582-FF83BA82C27F}|its31_lez04_input\\its31_lez04_input.csproj|c:\\users\\academy\\source\\repos\\its31_lez00_introduzione\\its31_lez04_input\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84FC5A7D-5908-4762-A582-FF83BA82C27F}|its31_lez04_input\\its31_lez04_input.csproj|solutionrelative:its31_lez04_input\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 633,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,20 +78,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez00_introduzione\\its31_lez05_task\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "its31_lez05_task\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez00_introduzione\\its31_lez05_task\\Models\\Libro.cs",
+              "RelativeToolTip": "its31_lez05_task\\Models\\Libro.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:48:43.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez00_introduzione\\its31_lez05_task\\Program.cs",
+              "RelativeDocumentMoniker": "its31_lez05_task\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez00_introduzione\\its31_lez05_task\\Program.cs",
+              "RelativeToolTip": "its31_lez05_task\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:46:23.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "its31_lez04_input",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez00_introduzione\\its31_lez04_input\\its31_lez04_input.csproj",
+              "RelativeDocumentMoniker": "its31_lez04_input\\its31_lez04_input.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez00_introduzione\\its31_lez04_input\\its31_lez04_input.csproj",
+              "RelativeToolTip": "its31_lez04_input\\its31_lez04_input.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T10:46:00.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "its31_lez03_ereditarieta",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez00_introduzione\\its31_lez03_ereditarieta\\its31_lez03_ereditarieta.csproj",
+              "RelativeDocumentMoniker": "its31_lez03_ereditarieta\\its31_lez03_ereditarieta.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez00_introduzione\\its31_lez03_ereditarieta\\its31_lez03_ereditarieta.csproj",
+              "RelativeToolTip": "its31_lez03_ereditarieta\\its31_lez03_ereditarieta.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T10:45:55.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez00_introduzione\\its31_lez04_input\\Program.cs",
               "RelativeDocumentMoniker": "its31_lez04_input\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez00_introduzione\\its31_lez04_input\\Program.cs",
               "RelativeToolTip": "its31_lez04_input\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T10:17:29.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Pesce.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez00_introduzione\\its31_lez03_ereditarieta\\Models\\Pesce.cs",
               "RelativeDocumentMoniker": "its31_lez03_ereditarieta\\Models\\Pesce.cs",
@@ -83,12 +151,11 @@
               "RelativeToolTip": "its31_lez03_ereditarieta\\Models\\Pesce.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T09:47:58.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T09:47:58.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Gatto.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez00_introduzione\\its31_lez03_ereditarieta\\Models\\Gatto.cs",
               "RelativeDocumentMoniker": "its31_lez03_ereditarieta\\Models\\Gatto.cs",
@@ -96,12 +163,11 @@
               "RelativeToolTip": "its31_lez03_ereditarieta\\Models\\Gatto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T09:47:52.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T09:47:52.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Animale.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez00_introduzione\\its31_lez03_ereditarieta\\Models\\Animale.cs",
               "RelativeDocumentMoniker": "its31_lez03_ereditarieta\\Models\\Animale.cs",
@@ -109,12 +175,11 @@
               "RelativeToolTip": "its31_lez03_ereditarieta\\Models\\Animale.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T09:47:46.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T09:47:46.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez00_introduzione\\its31_lez03_ereditarieta\\Program.cs",
               "RelativeDocumentMoniker": "its31_lez03_ereditarieta\\Program.cs",
@@ -122,8 +187,7 @@
               "RelativeToolTip": "its31_lez03_ereditarieta\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T09:47:03.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T09:47:03.131Z"
             }
           ]
         }

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "its31_lez00_introduzione", "its31_lez00_introduzione\its31_lez00_introduzione.csproj", "{82D5A0CC-E962-4BD0-8A3A-2F7080A09B36}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "its31_lez03_ereditarieta", "its31_lez03_ereditarieta\its31_lez03_ereditarieta.csproj", "{3F803BCC-5B9D-41C7-BEFF-A83D1CD950B5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "its31_lez04_input", "its31_lez04_input\its31_lez04_input.csproj", "{84FC5A7D-5908-4762-A582-FF83BA82C27F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "its31_lez05_task", "its31_lez05_task\its31_lez05_task.csproj", "{B9FD166B-A368-4B1F-A4D3-DE91C4504FD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{84FC5A7D-5908-4762-A582-FF83BA82C27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84FC5A7D-5908-4762-A582-FF83BA82C27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84FC5A7D-5908-4762-A582-FF83BA82C27F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FD166B-A368-4B1F-A4D3-DE91C4504FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FD166B-A368-4B1F-A4D3-DE91C4504FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FD166B-A368-4B1F-A4D3-DE91C4504FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FD166B-A368-4B1F-A4D3-DE91C4504FD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
