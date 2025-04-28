@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_costruttori\bin\Release\net9.0\its31_lez02_costruttori.exe
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_costruttori\bin\Release\net9.0\its31_lez02_costruttori.deps.json
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_costruttori\bin\Release\net9.0\its31_lez02_costruttori.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_costruttori\bin\Release\net9.0\its31_lez02_costruttori.dll
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_costruttori\bin\Release\net9.0\its31_lez02_costruttori.pdb
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_costruttori\obj\Release\net9.0\its31_lez02_costruttori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_costruttori\obj\Release\net9.0\its31_lez02_costruttori.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_costruttori\obj\Release\net9.0\its31_lez02_costruttori.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_costruttori\obj\Release\net9.0\its31_lez02_costruttori.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_costruttori\obj\Release\net9.0\its31_lez02_costruttori.dll
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_costruttori\obj\Release\net9.0\refint\its31_lez02_costruttori.dll
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_costruttori\obj\Release\net9.0\its31_lez02_costruttori.pdb
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_costruttori\obj\Release\net9.0\its31_lez02_costruttori.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_costruttori\obj\Release\net9.0\ref\its31_lez02_costruttori.dll

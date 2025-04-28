@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez04_input\bin\Release\net9.0\its31_lez04_input.exe
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez04_input\bin\Release\net9.0\its31_lez04_input.deps.json
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez04_input\bin\Release\net9.0\its31_lez04_input.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez04_input\bin\Release\net9.0\its31_lez04_input.dll
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez04_input\bin\Release\net9.0\its31_lez04_input.pdb
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez04_input\obj\Release\net9.0\its31_lez04_input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez04_input\obj\Release\net9.0\its31_lez04_input.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez04_input\obj\Release\net9.0\its31_lez04_input.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez04_input\obj\Release\net9.0\its31_lez04_input.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez04_input\obj\Release\net9.0\its31_lez04_input.dll
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez04_input\obj\Release\net9.0\refint\its31_lez04_input.dll
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez04_input\obj\Release\net9.0\its31_lez04_input.pdb
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez04_input\obj\Release\net9.0\its31_lez04_input.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez04_input\obj\Release\net9.0\ref\its31_lez04_input.dll

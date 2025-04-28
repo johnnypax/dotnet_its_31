@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "its31_lez02_costruttori/1.0.0": {
+        "runtime": {
+          "its31_lez02_costruttori.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "its31_lez02_costruttori/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

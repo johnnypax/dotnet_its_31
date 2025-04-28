@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_classi\bin\Release\net9.0\its31_lez02_classi.exe
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_classi\bin\Release\net9.0\its31_lez02_classi.deps.json
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_classi\bin\Release\net9.0\its31_lez02_classi.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_classi\bin\Release\net9.0\its31_lez02_classi.dll
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_classi\bin\Release\net9.0\its31_lez02_classi.pdb
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_classi\obj\Release\net9.0\its31_lez02_classi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_classi\obj\Release\net9.0\its31_lez02_classi.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_classi\obj\Release\net9.0\its31_lez02_classi.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_classi\obj\Release\net9.0\its31_lez02_classi.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_classi\obj\Release\net9.0\its31_lez02_classi.dll
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_classi\obj\Release\net9.0\refint\its31_lez02_classi.dll
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_classi\obj\Release\net9.0\its31_lez02_classi.pdb
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_classi\obj\Release\net9.0\its31_lez02_classi.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\its31_lez00_introduzione\its31_lez02_classi\obj\Release\net9.0\ref\its31_lez02_classi.dll

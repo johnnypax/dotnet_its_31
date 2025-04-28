@@ -1,0 +1,10 @@
+﻿Console.WriteLine("Hello, Giovanni!");
+Console.WriteLine("Hello, Giovanni!");
+Console.WriteLine("Hello, Giovanni!");
+Console.WriteLine("Hello, Mario!");
+Console.WriteLine("Hello, Mario!");
+Console.WriteLine("Hello, Mario!");
+Console.WriteLine("Hello, Marika!");
+Console.WriteLine("Hello, Marika!");
+Console.WriteLine("Hello, Marika!");
+Console.WriteLine("Hello, Marika!");
