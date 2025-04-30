@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\its31_lez02_task\its31_lez02_task\bin\Debug\net9.0\its31_lez02_task.exe
+C:\Users\ACADEMY\source\repos\its31_lez02_task\its31_lez02_task\bin\Debug\net9.0\its31_lez02_task.deps.json
+C:\Users\ACADEMY\source\repos\its31_lez02_task\its31_lez02_task\bin\Debug\net9.0\its31_lez02_task.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\its31_lez02_task\its31_lez02_task\bin\Debug\net9.0\its31_lez02_task.dll
+C:\Users\ACADEMY\source\repos\its31_lez02_task\its31_lez02_task\bin\Debug\net9.0\its31_lez02_task.pdb
+C:\Users\ACADEMY\source\repos\its31_lez02_task\its31_lez02_task\obj\Debug\net9.0\its31_lez02_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\its31_lez02_task\its31_lez02_task\obj\Debug\net9.0\its31_lez02_task.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\its31_lez02_task\its31_lez02_task\obj\Debug\net9.0\its31_lez02_task.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\its31_lez02_task\its31_lez02_task\obj\Debug\net9.0\its31_lez02_task.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\its31_lez02_task\its31_lez02_task\obj\Debug\net9.0\its31_lez02_task.dll
+C:\Users\ACADEMY\source\repos\its31_lez02_task\its31_lez02_task\obj\Debug\net9.0\refint\its31_lez02_task.dll
+C:\Users\ACADEMY\source\repos\its31_lez02_task\its31_lez02_task\obj\Debug\net9.0\its31_lez02_task.pdb
+C:\Users\ACADEMY\source\repos\its31_lez02_task\its31_lez02_task\obj\Debug\net9.0\its31_lez02_task.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\its31_lez02_task\its31_lez02_task\obj\Debug\net9.0\ref\its31_lez02_task.dll
