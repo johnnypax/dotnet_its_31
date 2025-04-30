@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\its31_lez04_parametri.props" />
+</Project>
