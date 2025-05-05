@@ -2,6 +2,8 @@ using its31_lez04_api_libri.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddCors();
+
 var app = builder.Build();
 
 #region Endpoint personalizzati
@@ -69,5 +71,9 @@ app.MapPut("/{varId}", (int varId, Libro libNew) =>
 });
 
 #endregion
+
+app.UseCors(builder =>
+    builder.WithOrigins("*").AllowAnyMethod().AllowAnyHeader()
+    );
 
 app.Run();
