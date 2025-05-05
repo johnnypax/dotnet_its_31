@@ -26,14 +26,47 @@ app.MapGet("/{varId}", (int varId) =>
 
 app.MapPost("/", (Libro lib) =>
 {
-    //Validate l'input
+    if (lib.Titolo == "" || lib.Autore == "")
+        return Results.BadRequest();
 
     lib.Id = elenco.Count + 1;
     elenco.Add(lib);
     return Results.Ok();
 });
 
-//Aggiungete eliminazione e modifica
+app.MapDelete("/{varId}", (int varId) => {
+    Libro? lib = elenco.FirstOrDefault(l => l.Id == varId);
+    if (lib is not null)
+    {
+        elenco.Remove(lib);
+        return Results.Ok();
+    }
+
+    return Results.NotFound();
+});
+
+app.MapPut("/{varId}", (int varId, Libro libNew) =>
+{
+    if (libNew.Titolo == "" || libNew.Autore == "")
+        return Results.BadRequest();
+
+    //Cerco il libro vecchio
+    Libro? libOld = elenco.FirstOrDefault(l => l.Id == varId);
+    if (libOld is null)
+        return Results.NotFound();
+
+    if(libNew.Titolo is not null)
+        libOld.Titolo = libNew.Titolo;
+
+    if (libNew.Autore is not null)
+        libOld.Autore = libNew.Autore;
+
+    if (libNew.Anno != 0)
+        libOld.Anno = libNew.Anno;
+
+    return Results.Ok();
+
+});
 
 #endregion
 
