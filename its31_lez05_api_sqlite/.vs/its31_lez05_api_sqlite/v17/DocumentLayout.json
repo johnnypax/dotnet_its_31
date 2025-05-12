@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{385E3E12-12CF-4AD7-BA9F-A8D52C318606}|its31_lez05_api_sqlite\\its31_lez05_api_sqlite.csproj|solutionrelative:its31_lez05_api_sqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{385E3E12-12CF-4AD7-BA9F-A8D52C318606}|its31_lez05_api_sqlite\\its31_lez05_api_sqlite.csproj|c:\\users\\academy\\source\\repos\\its31_lez05_api_sqlite\\its31_lez05_api_sqlite\\context\\negoziocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{385E3E12-12CF-4AD7-BA9F-A8D52C318606}|its31_lez05_api_sqlite\\its31_lez05_api_sqlite.csproj|solutionrelative:its31_lez05_api_sqlite\\context\\negoziocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{385E3E12-12CF-4AD7-BA9F-A8D52C318606}|its31_lez05_api_sqlite\\its31_lez05_api_sqlite.csproj|c:\\users\\academy\\source\\repos\\its31_lez05_api_sqlite\\its31_lez05_api_sqlite\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{385E3E12-12CF-4AD7-BA9F-A8D52C318606}|its31_lez05_api_sqlite\\its31_lez05_api_sqlite.csproj|solutionrelative:its31_lez05_api_sqlite\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E3E12-12CF-4AD7-BA9F-A8D52C318606}|its31_lez05_api_sqlite\\its31_lez05_api_sqlite.csproj|c:\\users\\academy\\source\\repos\\its31_lez05_api_sqlite\\its31_lez05_api_sqlite\\context\\negoziocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E3E12-12CF-4AD7-BA9F-A8D52C318606}|its31_lez05_api_sqlite\\its31_lez05_api_sqlite.csproj|solutionrelative:its31_lez05_api_sqlite\\context\\negoziocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{385E3E12-12CF-4AD7-BA9F-A8D52C318606}|its31_lez05_api_sqlite\\its31_lez05_api_sqlite.csproj|c:\\users\\academy\\source\\repos\\its31_lez05_api_sqlite\\its31_lez05_api_sqlite\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,20 +58,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez05_api_sqlite\\its31_lez05_api_sqlite\\Models\\Persona.cs",
               "RelativeDocumentMoniker": "its31_lez05_api_sqlite\\Models\\Persona.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez05_api_sqlite\\its31_lez05_api_sqlite\\Models\\Persona.cs",
               "RelativeToolTip": "its31_lez05_api_sqlite\\Models\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:58:43.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T07:58:43.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NegozioContext.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez05_api_sqlite\\its31_lez05_api_sqlite\\Context\\NegozioContext.cs",
               "RelativeDocumentMoniker": "its31_lez05_api_sqlite\\Context\\NegozioContext.cs",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "its31_lez05_api_sqlite\\Context\\NegozioContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:57:20.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T07:57:20.215Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "its31_lez05_api_sqlite\\Models\\Prodotto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:36:25.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T07:36:25.984Z"
             },
             {
               "$type": "Document",
@@ -103,7 +100,7 @@
               "RelativeDocumentMoniker": "its31_lez05_api_sqlite\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its31_lez05_api_sqlite\\its31_lez05_api_sqlite\\Program.cs",
               "RelativeToolTip": "its31_lez05_api_sqlite\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T07:34:54.743Z",
               "EditorCaption": ""

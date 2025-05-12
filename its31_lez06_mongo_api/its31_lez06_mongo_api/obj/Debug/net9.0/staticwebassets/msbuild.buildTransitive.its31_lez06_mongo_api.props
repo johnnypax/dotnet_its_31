@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\its31_lez06_mongo_api.props" />
+</Project>
