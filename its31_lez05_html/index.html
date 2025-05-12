@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Document</title>
+</head>
+
+<body>
+
+    <div class="container mt-3">
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Categoria</th>
+                    <th>Nome</th>
+                    <th>Codice</th>
+                    <th>Prezzo</th>
+                    <th>
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                            data-bs-target="#exampleModal">
+                            <i class="fa fa-plus"></i>
+                        </button>
+                    </th>
+                </tr>
+            </thead>
+            <tbody id="corpo-tabella">
+
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Inserimento</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="input-nome">Nome</label>
+                        <input type="text" class="form-control" id="input-nome" />
+                    </div>
+                    <div class="form-group">
+                        <label for="input-codice">Codice</label>
+                        <input type="text" class="form-control" id="input-codice" />
+                    </div>
+                    <div class="form-group">
+                        <label for="select-categoria">Categoria</label>
+                        <select class="form-control" id="select-categoria">
+                            <option value="Ferramenta">Ferramenta</option>
+                            <option value="Illuminazione">Illuminazione</option>
+                            <option value="Cibo">Cibo</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="input-descrizione">Descrizione</label>
+                        <textarea id="input-descrizione" class="form-control"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="input-prezzo">Prezzo</label>
+                        <input type="number" class="form-control" id="input-prezzo" />
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Chiudi</button>
+                    <button type="button" class="btn btn-primary" onclick="salvaProdotto()">Salva</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <script>
+        function stampaTabella() {
+            fetch("http://localhost:5112/prodotti")
+                .then(risultatoResponse => risultatoResponse.json())
+                .then(corpo => {
+                    let contenutoTabella = "";
+                    for (let [idx, prodotto] of corpo.entries()) {
+                        contenutoTabella += `
+                        <tr>
+                            <td>${prodotto.categoria}</td>
+                            <td>${prodotto.nome}</td>
+                            <td>${prodotto.codice}</td>
+                            <td>${prodotto.prezzo}</td>
+                            <td>
+                                <button type="button" class="btn btn-danger" 
+                                    onclick="eliminaProdotto(${prodotto.id})">
+                                        <i class="fa fa-trash" aria-hidden="true"></i>
+                                    </button>
+                            </td>
+                        </tr>
+                    `
+                    }
+
+                    document.getElementById("corpo-tabella").innerHTML = contenutoTabella
+                })
+                .catch(errore => {
+                    console.log("ERRORONE:", errore)
+                })
+        }
+
+        function salvaProdotto() {
+            let nome = document.getElementById("input-nome").value.trim();
+            let codice = document.getElementById("input-codice").value.trim();
+            let categoria = document.getElementById("select-categoria").value.trim();
+            let descrizione = document.getElementById("input-descrizione").value.trim();
+            let prezzo = document.getElementById("input-prezzo").value.trim();
+
+            if (nome == "") {
+                alert("Attenzione il nome è vuoto")
+                document.getElementById("input-nome").focus();
+                return;
+            }
+
+
+            let prodotto = {
+                nome,
+                codice,
+                categoria,
+                descrizione,
+                prezzo
+            }
+
+            fetch("http://localhost:5112/prodotti", {
+                method: "POST",
+                body: JSON.stringify(prodotto),
+                headers: {
+                    "Content-Type": "application/json"
+                }
+            })
+                .then(() => {
+                    alert("Stappooooooooo");
+                    stampaTabella()
+
+                    document.getElementById("input-nome").value = "";
+                    document.getElementById("input-codice").value = "";
+                    document.getElementById("select-categoria").value = "";
+                    document.getElementById("input-descrizione").value = "";
+                    document.getElementById("input-prezzo").value = "";
+
+                    var myModalEl = document.getElementById('exampleModal');
+                    var modal = bootstrap.Modal.getInstance(myModalEl)
+                    modal.hide();
+                })
+                .catch(() => {
+                    alert("Errore di inserimento")
+                });
+        }
+
+        function eliminaProdotto(varId) {
+
+        }
+
+        stampaTabella()         //Invocazione
+    </script>
+</body>
+
+</html>
